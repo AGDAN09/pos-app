@@ -219,7 +219,7 @@ export default function Welcome({ canLogin, canRegister }) {
 
                             <h1 className="fade-up-1 text-4xl sm:text-5xl font-bold leading-tight mb-6">
 
-                                Sistem Kasir Modern untuk{' '}
+                                Sistem Kasir Cafe Modern untuk{' '}
 
                                 <span className="bg-gradient-to-r from-amber-200 via-yellow-100 to-orange-200 bg-clip-text text-transparent">
                                     Bisnis Anda
